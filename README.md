@@ -185,7 +185,7 @@
       <h2>YAY! 🎉</h2>
       <img
         class="fireworks"
-        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc4NjVpNWg3Zmp0dGE0bWoxcHNlbG5kNWJ6eHJzYmNmdTYyN3h4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D5ScmqCsDb8qJY8Xk5/giphy.gif"
+        src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NxMTI4NGZmaG1hendpbjVteGQ0OHlnY3NkOGVzeTVqeWJnZG45YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yPjxAzSkVFgZO/giphy.gif"
         alt="Fireworks"
       />
     </section>
